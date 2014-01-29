@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 DemoApp::Application.configure do
+=======
+FirstApp::Application.configure do
+>>>>>>> fe79db64b7a6e34b610f75f3d5d8353179545232
   # Settings specified here will take precedence over those in config/application.rb.
 
   # The test environment is used exclusively to run your application's
